@@ -1,0 +1,21 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,Allen,male,22.0,1,0,A/5 21171,7.25,,S
+2,1,1,Bonnell,female,38.0,1,0,PC 17599,71.28,C85,C
+3,1,3,Braund,male,26.0,0,0,STON/O2. 3101282,7.92,,S
+4,1,1,Cumings,female,35.0,1,0,113803,53.1,C123,S
+5,0,3,Futrelle,female,35.0,1,0,373450,8.05,,S
+6,0,3,Moran,male,,0,0,330877,8.46,,Q
+7,1,1,McCarthy,male,54.0,0,0,17463,51.86,E46,S
+8,0,3,Palsson,male,2.0,3,1,349909,21.07,,S
+9,1,3,Johnson,female,27.0,0,2,347742,11.13,,S
+10,1,2,Nasser,female,14.0,1,0,237736,30.07,,C
+11,0,3,Sandstrom,female,4.0,1,1,PP 9549,16.7,G6,S
+12,1,1,Bonnell,female,58.0,0,0,113783,26.55,C103,S
+13,1,1,Harris,male,,0,0,248706,13.0,,S
+14,0,3,Gustav,male,39.0,0,0,347082,8.05,,S
+15,0,3,Tornquist,male,31.0,0,0,350406,7.75,,Q
+16,1,2,Rice,male,7.0,4,2,382652,29.12,,S
+17,1,1,Brown,female,45.0,0,1,113803,35.5,D56,S
+18,0,3,Smith,male,30.0,0,0,SOTON/OQ 392090,7.05,,S
+19,1,2,Adams,female,22.0,1,1,113760,50.0,B45,C
+20,0,3,Peterson,male,34.0,0,0,350052,8.05,,Q
